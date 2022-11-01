@@ -1,3 +1,9 @@
 This is my first Try
 on github
-samir
+=======
+antonio
+hello abed
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+>>>>>>> ff6549ee7767845b136b2311bcd1acd5226ed70f
